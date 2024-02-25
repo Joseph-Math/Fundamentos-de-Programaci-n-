@@ -8,12 +8,10 @@
     <br>
     <center><img src="https://www.uea.edu.ec/web/v2/wp-content/uploads/2023/02/logo-300x100-color-azul-2-1.png" alt=""></center>
     <br>
-    <center><h2>Ingeniería en Tecnologías de la Información</h2></center>
-<center><h2>Fundamentos de Tecnologías de la Información</h2></center>
-<center><h2>1er Nivel</h2></</center>
-<center><h2>Código HTML</h2></center>
-<center><h2>CII 2023-2024</h2></center>
-<center><h2>Fecha: 10/01/2024</h2></center>
+    <center><h3>Ingeniería en Tecnologías de la Información</h3></center>
+<center><h3>Fundamentos de Programación</h3></center>
+<center><h3>1er Nivel</h3></</center>
+<center><h3>CII 2023-2024</h3></center>
     <br>
 <center><h3>Datos del estudiante:</h3></center>
     <br>
