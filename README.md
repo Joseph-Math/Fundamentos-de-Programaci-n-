@@ -1,6 +1,4 @@
-<body>
-    <br>
-    <br>
+
     <center><img src="https://www.uea.edu.ec/web/v2/wp-content/uploads/2023/02/logo-300x100-color-azul-2-1.png" alt=""></center>
     <br>
     <center><h2>Ingeniería en Tecnologías de la Información</h2></center>
