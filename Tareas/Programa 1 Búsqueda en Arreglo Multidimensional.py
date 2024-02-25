@@ -13,7 +13,7 @@ for fila in lista:
             print(f'El número ingresado es {busqueda}, y pertenece a la posición [{no_fila}][{no_columna}]')
             no_columna += 1
     no_fila += 1
-#Gracias
+#Gracias..
 
 
 
