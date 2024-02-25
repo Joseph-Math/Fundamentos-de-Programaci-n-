@@ -13,6 +13,6 @@
 <center><h3>1er Nivel</h3></</center>
 <center><h3>CII 2023-2024</h3></center>
     <center><h3>Nombre: José Luis Maldonado Rodríguez </h3><center>
-<center><h3>Nombre: José Luis Maldonado Rodríguez </h3><center>
+<center><h3>Nombre: Ing. Edwin Gustavo Fernández Sánchez, Mgs. </h3><center>
 </body>
 </html>
