@@ -1,10 +1,9 @@
-# Arreglo Bidimensional de 3x3
+# Arreglo Dimensional
 student_grades = [
     [20, 21, 22],
     [23, 24, 25],
     [26, 27, 28]
 ]
-
 # Accessing and printing the grades
 print("Student 1 Grades:", student_grades[0])
 print("Student 2 Grades:", student_grades[1])
