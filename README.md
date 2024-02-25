@@ -2,8 +2,7 @@
 <html>
     <head>
 <meta charset="utf-8" />
-<title>Codigo HTML
-</title>
+
 <body>
     <br>
     <br>
