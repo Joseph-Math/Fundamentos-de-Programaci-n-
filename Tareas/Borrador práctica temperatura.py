@@ -137,3 +137,4 @@ print(f'El promedio semana No. {no_semana} es: {promedio}')
 promedio_ciudad = round(suma_promedio / len(ciudad), 1)
 print(f'El promedio mensual es: {promedio_ciudad}')
 #Archivo de prueba
+#Archivo de prueba
