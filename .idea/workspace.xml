@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12aba6a5-8106-4123-95e5-008a8b08bce0" name="Changes" comment="Actualizacion practica temperatura">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tareas/Borrador práctica temperatura.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tareas/Borrador práctica temperatura.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tareas/Iteración de arreglos multidimensionales con bucles anidados.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tareas/Iteración de arreglos multidimensionales con bucles anidados.py" afterDir="false" />
-    </list>
+    <list default="true" id="12aba6a5-8106-4123-95e5-008a8b08bce0" name="Changes" comment="Borrador práctica temperatura" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,19 +42,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Borrador práctica temperatura.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Iteración de arreglos multidimensionales con bucles anidados.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Programa 1 Búsqueda en Arreglo Multidimensional.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Programa 2 Ordenación de Arreglo Multidimensional.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Merging main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Borrador práctica temperatura.executor": "Run",
+    "Python.Iteración de arreglos multidimensionales con bucles anidados.executor": "Run",
+    "Python.Programa 1 Búsqueda en Arreglo Multidimensional.executor": "Run",
+    "Python.Programa 2 Ordenación de Arreglo Multidimensional.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -198,7 +191,23 @@
       <option name="project" value="LOCAL" />
       <updated>1709253113247</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Borrador práctica temperatura">
+      <option name="closed" value="true" />
+      <created>1709493618862</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1709493618862</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Borrador práctica temperatura">
+      <option name="closed" value="true" />
+      <created>1709493673923</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1709493673923</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -218,9 +227,10 @@
     <MESSAGE value="# Arreglo Bidimensional de 3x3" />
     <MESSAGE value="Actualización tarea" />
     <MESSAGE value="Actualización tarea 1&#10;Actualización tarea 2" />
-    <MESSAGE value="Borrador práctica temperatura" />
     <MESSAGE value="Actualización práctica temperatura" />
     <MESSAGE value="Actualizacion practica temperatura" />
-    <option name="LAST_COMMIT_MESSAGE" value="Actualizacion practica temperatura" />
+    <MESSAGE value="Actualizaciòn práctica temperatura" />
+    <MESSAGE value="Borrador práctica temperatura" />
+    <option name="LAST_COMMIT_MESSAGE" value="Borrador práctica temperatura" />
   </component>
 </project>
