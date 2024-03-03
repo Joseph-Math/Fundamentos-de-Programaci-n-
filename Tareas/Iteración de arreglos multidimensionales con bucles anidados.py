@@ -44,7 +44,7 @@ temperaturas = [
             {"day": "Jueves", "temp": 18},
             {"day": "Viernes", "temp": 17},
             {"day": "Sábado", "temp": 19},
-            {"day": "Domingo", "temp": 9115}
+            {"day": "Domingo", "temp": 15}
         ]
     ],
     [   # Guayaquil
