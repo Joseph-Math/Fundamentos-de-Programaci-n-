@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="12aba6a5-8106-4123-95e5-008a8b08bce0" name="Changes" comment="Actualizacion practica temperatura">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tareas/Borrador práctica temperatura.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tareas/Borrador práctica temperatura.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tareas/Iteración de arreglos multidimensionales con bucles anidados.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tareas/Iteración de arreglos multidimensionales con bucles anidados.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Tareas/Borrador práctica temperatura.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tareas/Iteración de arreglos multidimensionales con bucles anidados.py" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2cs5x6R22FsEQxpreswrcwVsDfA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Borrador práctica temperatura.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Iteración de arreglos multidimensionales con bucles anidados.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Programa 1 Búsqueda en Arreglo Multidimensional.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Programa 2 Ordenación de Arreglo Multidimensional.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Merging main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12aba6a5-8106-4123-95e5-008a8b08bce0" name="Changes" comment="" />
+      <created>1708887689339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708887689339</updated>
+    </task>
+    <task id="LOCAL-00001" summary="# Arreglo Bidimensional de 3x3">
+      <option name="closed" value="true" />
+      <created>1708894116148</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708894116148</updated>
+    </task>
+    <task id="LOCAL-00002" summary="# Arreglo Bidimensional de 3x3">
+      <option name="closed" value="true" />
+      <created>1708895375590</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708895375590</updated>
+    </task>
+    <task id="LOCAL-00003" summary="# Arreglo Bidimensional de 3x3">
+      <option name="closed" value="true" />
+      <created>1708895499084</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708895499084</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Actualización tarea">
+      <option name="closed" value="true" />
+      <created>1708900608029</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708900608029</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Actualización tarea">
+      <option name="closed" value="true" />
+      <created>1708900841806</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708900841806</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Actualización tarea">
+      <option name="closed" value="true" />
+      <created>1708901003559</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1708901003559</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Actualización tarea 1&#10;Actualización tarea 2">
+      <option name="closed" value="true" />
+      <created>1708901460960</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1708901460960</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Actualización tarea 1&#10;Actualización tarea 2">
+      <option name="closed" value="true" />
+      <created>1708901539762</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1708901539762</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Actualización tarea 1&#10;Actualización tarea 2">
+      <option name="closed" value="true" />
+      <created>1708902692916</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1708902692916</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Actualización tarea 1&#10;Actualización tarea 2">
+      <option name="closed" value="true" />
+      <created>1708902836961</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1708902836961</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Actualización tarea 1&#10;Actualización tarea 2">
+      <option name="closed" value="true" />
+      <created>1709252339676</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1709252339676</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Actualización tarea 1&#10;Actualización tarea 2">
+      <option name="closed" value="true" />
+      <created>1709252655297</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1709252655297</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Actualización tarea 1&#10;Actualización tarea 2">
+      <option name="closed" value="true" />
+      <created>1709252771885</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1709252771885</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Actualización tarea 1&#10;Actualización tarea 2">
+      <option name="closed" value="true" />
+      <created>1709252825565</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1709252825565</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Borrador práctica temperatura">
+      <option name="closed" value="true" />
+      <created>1709253113247</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1709253113247</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update README.md" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <MESSAGE value="# Arreglo Bidimensional de 3x3" />
+    <MESSAGE value="Actualización tarea" />
+    <MESSAGE value="Actualización tarea 1&#10;Actualización tarea 2" />
+    <MESSAGE value="Borrador práctica temperatura" />
+    <MESSAGE value="Actualización práctica temperatura" />
+    <MESSAGE value="Actualizacion practica temperatura" />
+    <option name="LAST_COMMIT_MESSAGE" value="Actualizacion practica temperatura" />
+  </component>
+</project>
