@@ -24,5 +24,5 @@ print("Temperaturas promedio por ciudad: ")
 for ciudad, promedio in temperaturas_promedio.items():
     print(f"{ciudad}: {promedio: 2f} C")
 print("Espero que te haya gustado, antes de terminar ¿Puedes decirnos qué tal te pareció?")
-A=input('Puedes escibir si fue excelente, más o menos o pésimo: ')
-print(f"Te parecio {A} gracias por tus comentarios")
+B=input('Puedes escibir si fue excelente, más o menos o pésimo: ')
+print(f"Te parecio {B} gracias por tus comentarios")
