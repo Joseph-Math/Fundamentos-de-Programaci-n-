@@ -10,7 +10,7 @@
     <br>
     <center><h3>Ingeniería en Tecnologías de la Información</h3></center>
 <center><h3>Fundamentos de Programación</h3></center>
-<center><h3>1er Nivel</h3></center>
+<center><h3>Primer Nivel</h3></center>
 <center><h3>CII 2023-2024</h3></center>
     <center><h3>Docente: Ing. Edwin Gustavo Fernández Sánchez, Mgs.</h3></center>
 <center><h3>Alumno: José Luis Maldonado Rodríguez</h3></center>
