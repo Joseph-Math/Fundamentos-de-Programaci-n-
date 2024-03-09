@@ -29,4 +29,6 @@ for fila in matriz:
 # Mostrar la matriz ordenada
 print("\nMatriz Ordenada por Filas:")
 mostrar_matriz(matriz)
-#Gracias...
+print("Espero que te haya gustado, antes de terminar ¿Puedes decirnos qué tal te pareció?")
+A=input('Puedes escibir si fue excelente, más o menos o pésimo: ')
+print(f"Te parecio {A} gracias por tus comentarios")
