@@ -1,0 +1,21 @@
+# Tarea semana 16
+# Paso 1 Escritura de Archivo de Texto
+# Crea un nuevo archivo llamado my_notes.txt.
+my_notes = open ('my_notes.txt', 'w')
+# Escribe al menos tres líneas de notas personales en el archivo con write()
+my_notes.write("Linea 1: Mi nombre es José Luis. \n")
+my_notes.write("Linea 2: Soy estudiante de Tecnologías de la Información. \n")
+my_notes.write("Linea 3: Gracias. \n")
+# Escribe al menos tres líneas de notas personales en el archivo con writelines()
+lineas =  ["Linea 4:Universidad estatal Amazónica.\n","Linea 2:UEA es Excelencia. \n" ]
+my_notes.writelines(lineas)
+# Paso 2 Abrir el archivo creado my:notes.txt.
+my_notes = open('my_notes.txt', 'r')
+# Paso 3 Leer el contenido del archivo .txt linea por linea
+print('Metodo 1: read()')
+print(my_notes.read())
+my_notes.close()
+# Paso 4 Leer el contenido del archivo .txt de forma continua
+my_notes = open('my_notes.txt','r')
+print('Metodo 2: readlines()')
+print("gracias")
